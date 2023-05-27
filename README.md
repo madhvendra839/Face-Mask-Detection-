@@ -1,6 +1,6 @@
 
 # Face mask detection Project
-                                  PROJECT DESCRIPTION
+## PROJECT DESCRIPTION
 
 To create this dataset,
 1.	Taking normal images of faces.
